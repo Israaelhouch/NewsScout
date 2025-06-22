@@ -7,7 +7,7 @@ A beginner-friendly AI project that fetches the latest AI-related news articles 
 ## 🚀 Features
 
 - 🔍 Live web search using Tavily
-- 🧠 AI-based summarization (GPT-3.5 or GPT-4)
+- 🧠 AI-based summarization using Ollama models (e.g., mistral, llama3)
 - 📋 Clean console output or optional Streamlit UI
 - ✅ Beginner-friendly and easy to extend
 
